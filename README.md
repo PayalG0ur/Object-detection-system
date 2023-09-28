@@ -4,7 +4,7 @@ This project was created by me and my friend as trial to create better gear for 
 The original idea was to create a shoe prototype that can detect obstacles from  a distance and send a signall to the person wearing them and help them avoid the obstacle. 
 
 # Disclaimer: 
-The project is still incomplete. This here is just the test version simulation of the project. An ultrasonic sensor is used to detect the object along with a buzzer to notify the presense of obstacle and a 16x2 LCD screen to display the distance of the object. 
+This here is just the test version simulation of the project. An ultrasonic sensor is used to detect the object along with a buzzer to notify the presense of obstacle and a 16x2 LCD screen to display the distance of the object. 
 
 # Components 
  1. Arduino Uno
